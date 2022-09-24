@@ -1,0 +1,44 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+nav img {
+height: 21px;
+width: 85px;
+}
+
+h3{
+    font-size: 21px;
+}
+
+footer img {
+    height: 20px;
+    width: 82px;
+}
+
+footer {
+    color: #707070;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+.card-title {
+    color: #212529;
+    font-size: 20px;
+}
+.ubicacion {
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    font-size: 13px;
+}
+
+.descuento {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.descripcion {
+    color: #707070;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
